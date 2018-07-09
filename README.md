@@ -21,5 +21,5 @@ in the workplace.
 
 ## Files Included
 
-*All code files
-*A compiled exe of the latest version (this is bundled with its dependencies using ILMerge)
+* All code files
+* A compiled exe of the latest version (this is bundled with its dependencies using ILMerge)
